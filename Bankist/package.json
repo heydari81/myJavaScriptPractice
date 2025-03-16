@@ -1,0 +1,21 @@
+{
+  "contributes": {
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "chat",
+          "title": "Chat",
+          "icon": "resources/chat-icon.svg"
+        }
+      ]
+    },
+    "views": {
+      "chat": [
+        {
+          "id": "chatView",
+          "name": "Chat Menu"
+        }
+      ]
+    }
+  }
+}
