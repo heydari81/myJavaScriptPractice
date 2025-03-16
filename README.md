@@ -1,0 +1,1 @@
+This repository contains JavaScript projects that I built while following Jonas Schmedtmann's JavaScript course. These projects helped me understand modern JavaScript, DOM manipulation, asynchronous programming, and best coding practices.
